@@ -1,12 +1,59 @@
-# React + Vite
+# React Todo App with Context API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant **Todo Application** built with **React** and **Context API** for state management.  
+Manage your daily tasks efficiently with a clean and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Add, delete, and mark todos as completed  
+- Global state management using React Context API  
+- Responsive design for mobile and desktop  
+- Smooth and intuitive user experience  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+<img width="911" height="534" alt="image" src="https://github.com/user-attachments/assets/a7a3f09f-3a42-45c3-8bb0-6ea53afd4d4f" />
+
+
+
+## Installation
+
+1. Clone the repo  
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+
+```
+Navigate to project folder
+
+
+cd your-repo-name
+Install dependencies
+
+
+npm install
+Start the development server
+
+
+npm start
+Usage
+Open http://localhost:3000 in your browser
+
+Add your tasks and manage them with ease
+
+
+## Tech Stack
+React.js
+
+Context API for state management
+
+CSS for styling
+
+Contributing
+Feel free to open issues or submit pull requests. Your contributions are welcome!
+
+
+Made with ❤️ by gopal verma
+
+
